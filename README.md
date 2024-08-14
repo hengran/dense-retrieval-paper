@@ -5,15 +5,15 @@
    2. Approximate nearest neighbor negative contrastive learning for dense text retrieval.
    3. RocketQA: An Optimized Training Approach to Dense Passage Retrieval for Open-Domain Question Answering
    4. rocketqav2: a joint training method for dense passage retrieval and passage re-ranking
-   5.  Optimizing Dense Retrieval Model Training with Hard Negatives
-3. Interaction
-   D-q:
-   1. DRPQ: Improving Document Representations by Generating Pseudo Query Embeddings for Dense Retrieval
-   2. I3 Retriever: Incorporating Implicit Interaction in Pre-trained Language Models for Passage Retrieval
-   q-D
-   1. DCE: Learning Diverse Document Representations with Deep Query Interactions for Dense Retrieval
-   2. Improving Query Representations for Dense Retrieval with Pseudo Relevance Feedback
-4. pre-train methods:
+   5. Optimizing Dense Retrieval Model Training with Hard Negatives
+3. Interaction  
+   1. D-q:
+      1. DRPQ: Improving Document Representations by Generating Pseudo Query Embeddings for Dense Retrieval
+      2. I3 Retriever: Incorporating Implicit Interaction in Pre-trained Language Models for Passage Retrieval
+      3. DCE: Learning Diverse Document Representations with Deep Query Interactions for Dense Retrieval
+   2. q-D  
+      1. Improving Query Representations for Dense Retrieval with Pseudo Relevance Feedback
+5. pre-train methods:
    1. Auto-encoding:
        1. Less is More: Pre-train a Strong Text Encoder for Dense Retrieval Using a Weak Decoder
        2. Retromae: Pre-training retrieval-oriented transformers via masked autoencoder
@@ -23,12 +23,12 @@
    2. Transformers:
       1. Condenser: a Pre-training Architecture for Dense Retrieval
    3. Representative Words Prediction
-     1. PROP: Pre-training with Representative Words Prediction for Ad-hoc Retrieval
-     2. B-PROP: Bootstrapped Pre-training with Representative Words Prediction for Ad-hoc Retrieval.
+      1. PROP: Pre-training with Representative Words Prediction for Ad-hoc Retrieval
+      2. B-PROP: Bootstrapped Pre-training with Representative Words Prediction for Ad-hoc Retrieval.
      
 
 
-## decoder-only
+## LLMs as encoder
 1. Fine-tuning LLaMa for Multi-stage Text Retrieval(2023)
    1. add eos token
    2. use the eos hidden states to embed whole sentence
@@ -47,4 +47,5 @@
    2. improve the embedding of the last token.
 7. Leveraging LLMs for Unsupervised Dense Retriever Ranking (2024)
 8. LLM2Vec: Large Language Models Are Secretly Powerful Text Encoders(2024)
+9. NV-Retriever: Improving text embedding models with effective hard-negative mining
    
