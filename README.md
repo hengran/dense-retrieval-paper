@@ -9,9 +9,9 @@
 3. Interaction
    D-q:
    1. DRPQ: Improving Document Representations by Generating Pseudo Query Embeddings for Dense Retrieval
-   2. DCE: Learning Diverse Document Representations with Deep Query Interactions for Dense Retrieval
-   d-D
-   1. I3 Retriever: Incorporating Implicit Interaction in Pre-trained Language Models for Passage Retrieval
+   2. I3 Retriever: Incorporating Implicit Interaction in Pre-trained Language Models for Passage Retrieval
+   q-D
+   1. DCE: Learning Diverse Document Representations with Deep Query Interactions for Dense Retrieval
    2. Improving Query Representations for Dense Retrieval with Pseudo Relevance Feedback
 4. pre-train methods:
    1. Auto-encoding:
@@ -45,6 +45,6 @@
 6. Repetition Improves Language Model Embeddings(2023)
    1. input the query or passage twice.
    2. improve the embedding of the last token.
-7. Leveraging LLMs for Unsupervised Dense Retriever Ranking
+7. Leveraging LLMs for Unsupervised Dense Retriever Ranking (2024)
 8. LLM2Vec: Large Language Models Are Secretly Powerful Text Encoders(2024)
    
