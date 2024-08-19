@@ -32,7 +32,8 @@
 1. Fine-tuning LLaMa for Multi-stage Text Retrieval(2023)
    1. add eos token
    2. use the eos hidden states to embed whole sentence
-3. Making Large Language Models a Better Foundation For Dense Retrieval(2023)
+3. Making Large Language Models a Better Foundation For Dense Retrieval(2023)-> **Llama2Vec: Unsupervised Adaptation of Large Language Models for
+Dense Retrieval (ACL 2024)**
    1. first work on pre-training for dense retrieval using LLMs
    2. motivation: As a result, the LLMs’ output embeddings will mainly focus on capturing the local and near-future semantic of the context. However, dense retrieval calls for embeddings to represent the global semantic of the entire context.
 4. Improving Text Embeddings with Large Language Models(2023)
