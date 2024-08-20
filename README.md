@@ -31,10 +31,11 @@
 # LLMs coming
 ***
 
-## LLMs help encoder-only
+## LLMs help retriever
 1. W-RAG: Weakly Supervised Dense Retrieval in RAG for Open-domain Question Answering (2024) [paper link](https://arxiv.org/pdf/2408.08444)
 2. REPLUG: Retrieval-Augmented Black-Box Language Models (NAACL 2024) [paper link](https://aclanthology.org/2024.naacl-long.463.pdf)
     **key point**: Generation helps retrieval.
+3. A Case Study of Enhancing Sparse Retrieval using LLMs (WWW'24) [paper](https://dl.acm.org/doi/pdf/10.1145/3589335.3651945)
 
      
 ## LLMs for IR post-processing
