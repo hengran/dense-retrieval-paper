@@ -1,4 +1,4 @@
-# dense-retrieval-paper
+# dense-retrieval
 ## encoder-only
 1. Hard-negative mining methods:
    1. Dense Passage Retrieval for Open-Domain Question Answering
@@ -62,5 +62,23 @@ Dense Retrieval (ACL 2024)**
    2. improve the embedding of the last token.
 7. LLM2Vec: Large Language Models Are Secretly Powerful Text Encoders(2024) [paper link](https://arxiv.org/pdf/2404.05961)
 8. NV-Retriever: Improving text embedding models with effective hard-negative mining [paper link](https://arxiv.org/pdf/2407.15831)
+
+# re-Ranking
+
+
+## LLMs for reranking
+1. A Setwise Approach for Effective and Highly Efficient Zero-shot Ranking with Large Language Models(SIGIR 2024) [paper](https://dl.acm.org/doi/pdf/10.1145/3626772.3657813)
+      1. Listwise
+      2. Zero-shot
+2. PRP-Graph: Pairwise Ranking Prompting to LLMs with Graph Aggregation for Effective Text Re-ranking(ACL 2024) [paper](https://aclanthology.org/2024.acl-long.313.pdf)
+      1. Pairwise
+      2. Zero-shot
+3. RankVicuna: Zero-Shot Listwise Document Reranking with Open-Source Large Language Models (Arxiv'23) [paper](https://arxiv.org/pdf/2309.15088)
+      1. Listwise
+      2. Zero-shot
+4. Improving Zero-shot LLM Re-Ranker with Risk Minimization (Arxiv'24) [paper](https://arxiv.org/pdf/2406.13331)
+   1. Pointwise
+   2. Zero-shot
+      
 
    
