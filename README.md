@@ -91,6 +91,7 @@ Dense Retrieval (ACL 2024)**
 9. Leveraging Passage Embeddings for Efficient Listwise Reranking with Large Language Models(Arxiv'24) [paper](https://arxiv.org/pdf/2406.14848)
    1. Pointwise
    2. zero-shot
+10. PaRaDe: Passage Ranking using Demonstrations with Large Language Models(Findings of EMNLP'23) [paper](https://aclanthology.org/2023.findings-emnlp.950.pdf)
       
 
    
