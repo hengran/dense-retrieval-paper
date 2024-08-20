@@ -79,6 +79,18 @@ Dense Retrieval (ACL 2024)**
 4. Improving Zero-shot LLM Re-Ranker with Risk Minimization (Arxiv'24) [paper](https://arxiv.org/pdf/2406.13331)
    1. Pointwise
    2. Zero-shot
+5. RankRAG: Unifying Context Ranking with Retrieval-Augmented Generation in LLMs (Arxiv'24) [paper](https://arxiv.org/pdf/2407.02485v1)
+   1. Listwise
+   2. Instruct-tuning
+6. Re-Ranking Step by Step: Investigating Pre-Filtering for Re-Ranking with Large Language Models (Arxiv'24) [paper](https://arxiv.org/pdf/2406.18740)
+   1. Listwise
+   2. zero-shot
+8. Lightweight reranking for language model generations (ACL'24) [paper](https://aclanthology.org/2024.acl-long.376.pdf)
+   1. Pairwise
+   2. zero-shot
+9. Leveraging Passage Embeddings for Efficient Listwise Reranking with Large Language Models(Arxiv'24) [paper](https://arxiv.org/pdf/2406.14848)
+   1. Pointwise
+   2. zero-shot
       
 
    
