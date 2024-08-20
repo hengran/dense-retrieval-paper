@@ -25,19 +25,24 @@
    3. Representative Words Prediction
       1. PROP: Pre-training with Representative Words Prediction for Ad-hoc Retrieval
       2. B-PROP: Bootstrapped Pre-training with Representative Words Prediction for Ad-hoc Retrieval.
+
+
+
+# LLMs coming
+***
+
 ## LLMs help encoder-only
 1. W-RAG: Weakly Supervised Dense Retrieval in RAG for Open-domain Question Answering (2024) [paper link](https://arxiv.org/pdf/2408.08444)
 2. REPLUG: Retrieval-Augmented Black-Box Language Models (NAACL 2024) [paper link](https://aclanthology.org/2024.naacl-long.463.pdf)
     **key point**: Generation helps retrieval.
 
      
-
-## LLMs for IR
 ## LLMs for IR post-processing
 1. From the perspective of cognition：
    1. Are Large Language Models Good at Utility Judgments? (SIGIR 2024)
    2. Iterative Utility Judgment Framework via LLMs Inspired by Relevance in Philosophy (2024)
-### LLMs for dense retrieval (LLMs as encoder)
+      
+### LLMs in dense retrieval (LLMs as encoder)
 1. Fine-tuning LLaMa for Multi-stage Text Retrieval(SIGIR 2024)
    1. add eos token
    2. use the eos hidden states to embed whole sentence
