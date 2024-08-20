@@ -25,28 +25,37 @@
    3. Representative Words Prediction
       1. PROP: Pre-training with Representative Words Prediction for Ad-hoc Retrieval
       2. B-PROP: Bootstrapped Pre-training with Representative Words Prediction for Ad-hoc Retrieval.
+## LLMs help encoder-only
+1. W-RAG: Weakly Supervised Dense Retrieval in RAG for Open-domain Question Answering (2024) [paper link](https://arxiv.org/pdf/2408.08444)
+2. REPLUG: Retrieval-Augmented Black-Box Language Models (NAACL 2024) [paper link](https://aclanthology.org/2024.naacl-long.463.pdf)
+    **key point**: Generation helps retrieval.
+
      
 
-
-## LLMs as encoder
-1. Fine-tuning LLaMa for Multi-stage Text Retrieval(2023)
+## LLMs for IR
+## LLMs for IR post-processing
+1. From the perspective of cognition：
+   1. Are Large Language Models Good at Utility Judgments? (SIGIR 2024)
+   2. Iterative Utility Judgment Framework via LLMs Inspired by Relevance in Philosophy (2024)
+### LLMs for dense retrieval (LLMs as encoder)
+1. Fine-tuning LLaMa for Multi-stage Text Retrieval(SIGIR 2024)
    1. add eos token
    2. use the eos hidden states to embed whole sentence
 3. Making Large Language Models a Better Foundation For Dense Retrieval(2023)-> **Llama2Vec: Unsupervised Adaptation of Large Language Models for
 Dense Retrieval (ACL 2024)**
    1. first work on pre-training for dense retrieval using LLMs
    2. motivation: As a result, the LLMs’ output embeddings will mainly focus on capturing the local and near-future semantic of the context. However, dense retrieval calls for embeddings to represent the global semantic of the entire context.
-4. Improving Text Embeddings with Large Language Models(2023)
+4. Improving Text Embeddings with Large Language Models(2023) [paper link](https://arxiv.org/pdf/2401.00368)
    1. E5-mistral-7B
    2. fine-tuning on both the generated synthetic data and a collection of 13 public datasets.
-5. NV-Embed: Improved Techniques for Training LLMs as Generalist Embedding Models(2024)
+5. NV-Embed: Improved Techniques for Training LLMs as Generalist Embedding Models(2024) [paper link](https://arxiv.org/pdf/2405.17428)
    1. Two stage fine-tuning task:
         1. It first applies contrastive training with instructions on retrieval datasets, utilizing in-batch negatives and curated hard negative examples.
         2. At stage-2, it blends various non-retrieval datasets into instruction tuning, which not only enhances non-retrieval task accuracy but also improves retrieval performance.
-6. Repetition Improves Language Model Embeddings(2023)
+6. Repetition Improves Language Model Embeddings(2023) [paper link](https://arxiv.org/pdf/2402.15449)
    1. input the query or passage twice.
    2. improve the embedding of the last token.
-7. Leveraging LLMs for Unsupervised Dense Retriever Ranking (2024)
-8. LLM2Vec: Large Language Models Are Secretly Powerful Text Encoders(2024)
-9. NV-Retriever: Improving text embedding models with effective hard-negative mining
+7. LLM2Vec: Large Language Models Are Secretly Powerful Text Encoders(2024) [paper link](https://arxiv.org/pdf/2404.05961)
+8. NV-Retriever: Improving text embedding models with effective hard-negative mining [paper link](https://arxiv.org/pdf/2407.15831)
+
    
