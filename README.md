@@ -39,7 +39,7 @@
 3. A Case Study of Enhancing Sparse Retrieval using LLMs (WWW'24) [paper](https://dl.acm.org/doi/pdf/10.1145/3589335.3651945)
 
      
-## LLMs for IR post-processing
+## LLMs for IR post-processing (relevance in retriever, and utility or usefulness in generator)
 1. From the perspective of cognition：
    1. Are Large Language Models Good at Utility Judgments? (SIGIR 2024)
    2. Iterative Utility Judgment Framework via LLMs Inspired by Relevance in Philosophy (2024)
