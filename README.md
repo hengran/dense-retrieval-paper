@@ -43,6 +43,8 @@
 1. From the perspective of cognition：
    1. Are Large Language Models Good at Utility Judgments? (SIGIR 2024)
    2. Iterative Utility Judgment Framework via LLMs Inspired by Relevance in Philosophy (2024)
+   3. Corrective Retrieval Augmented Generation, Shi-Qi Yan, et al., Arxirv 2024
+   4. Similarity is Not All You Need: Endowing Retrieval-Augmented Generation with Multi–layered Thoughts, Chunjing Gan, et al., Arxiv 2024
       
 ### LLMs in dense retrieval (LLMs as encoder)
 1. Fine-tuning LLaMa for Multi-stage Text Retrieval(SIGIR 2024)
