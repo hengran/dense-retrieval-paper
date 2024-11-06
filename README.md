@@ -6,7 +6,7 @@
    3. RocketQA: An Optimized Training Approach to Dense Passage Retrieval for Open-Domain Question Answering
    4. rocketqav2: a joint training method for dense passage retrieval and passage re-ranking
    5. Optimizing Dense Retrieval Model Training with Hard Negatives
-   6. Conan-embedding: General Text Embedding with More and Better Negative Samples
+   6. Conan-embedding: General Text Embedding with More and Better Negative Samples [paper link](https://arxiv.org/abs/2408.15710)
 3. Interaction  
    1. D-q:
       1. DRPQ: Improving Document Representations by Generating Pseudo Query Embeddings for Dense Retrieval
