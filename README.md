@@ -45,6 +45,10 @@
    2. Iterative Utility Judgment Framework via LLMs Inspired by Relevance in Philosophy (2024)
    3. Corrective Retrieval Augmented Generation, Shi-Qi Yan, et al., Arxirv 2024
    4. Similarity is Not All You Need: Endowing Retrieval-Augmented Generation with Multi–layered Thoughts, Chunjing Gan, et al., Arxiv 2024
+   5. ARKS:ActiveRetrieval in Knowledge Soup for Code Generation, Hongjin Su, et al., 2024
+   6. CONTEXT-AUGMENTED CODE GENERATION USING PROGRAMMING KNOWLEDGE GRAPHS,  Iman Saberi, et.al., 2024.10.9
+   7. Evaluating Retrieval Quality in Retrieval-Augmented Generation.  Alireza Salem, et al., SIGIR2024
+   8. Bridging the Preference Gap between Retrievers and LLMs. Zixuan Ke et al. ACL2024
       
 ### LLMs in dense retrieval (LLMs as encoder)
 1. Fine-tuning LLaMa for Multi-stage Text Retrieval(SIGIR 2024)
