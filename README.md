@@ -70,6 +70,7 @@ Dense Retrieval (ACL 2024)**
    2. improve the embedding of the last token.
 7. LLM2Vec: Large Language Models Are Secretly Powerful Text Encoders(2024) [paper link](https://arxiv.org/pdf/2404.05961)
 8. NV-Retriever: Improving text embedding models with effective hard-negative mining [paper link](https://arxiv.org/pdf/2407.15831)
+9. ScalingNote: Scaling up Retrievers with Large Language Models for Real-World Dense Retrieval, Suyuan Huang, et al.,  [paper link](https://arxiv.org/pdf/2411.15766)
 
 # re-Ranking
 
