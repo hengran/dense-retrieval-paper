@@ -104,6 +104,7 @@ Dense Retrieval (ACL 2024)**
 11. APEER : Automatic Prompt Engineering Enhances Large Language Model Reranking(Arxiv'24) [paper](https://arxiv.org/pdf/2406.14449)
 12. Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agents(EMNLP'23) [paper](https://arxiv.org/pdf/2304.09542)
 13. Are Large Language Models Good at Utility Judgments? (SIGIR'24) [paper](https://arxiv.org/pdf/2403.19216)
+14. JudgeRank: Leveraging Large Language Models for Reasoning-Intensive Reranking [paper](/https://arxiv.org/pdf/2411.00142)
       
 
    
