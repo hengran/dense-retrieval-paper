@@ -26,6 +26,9 @@
    3. Representative Words Prediction
       1. PROP: Pre-training with Representative Words Prediction for Ad-hoc Retrieval
       2. B-PROP: Bootstrapped Pre-training with Representative Words Prediction for Ad-hoc Retrieval.
+   3. Others:
+      1. How to Train Your DRAGON: Diverse Augmentation Towards Generalizable Dense Retrieval [paper link](https://arxiv.org/pdf/2302.07452) 2023.02
+      2. M3-Embedding: Multi-Linguality, Multi-Functionality, Multi-Granularity Text Embeddings Through Self-Knowledge Distillation [paper link](https://arxiv.org/pdf/2402.03216)  Jianlv Chen et al., 2024 07
 
 
 
