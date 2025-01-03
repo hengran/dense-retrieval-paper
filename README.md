@@ -1,34 +1,38 @@
 # dense-retrieval
 ## encoder-only
 1. Hard-negative mining methods:
-   1. Dense Passage Retrieval for Open-Domain Question Answering
-   2. Approximate nearest neighbor negative contrastive learning for dense text retrieval.
-   3. RocketQA: An Optimized Training Approach to Dense Passage Retrieval for Open-Domain Question Answering
-   4. rocketqav2: a joint training method for dense passage retrieval and passage re-ranking
-   5. Optimizing Dense Retrieval Model Training with Hard Negatives
-   6. Conan-embedding: General Text Embedding with More and Better Negative Samples (2024.08) [paper link](https://arxiv.org/abs/2408.15710)
+   1. [Dense Passage Retrieval for Open-Domain Question Answering](https://arxiv.org/pdf/2004.04906) Vladimir Karpukhin et al., 2020.09 EMNLP2020
+   2. [Approximate nearest neighbor negative contrastive learning for dense text retrieval](https://arxiv.org/pdf/2007.00808). Lee Xiong et al., 2020.10 ICLR2021
+   3. [RocketQA: An Optimized Training Approach to Dense Passage Retrieval for Open-Domain Question Answering](https://arxiv.org/abs/2010.08191) Yingqi Qu et al., 2020.10 NAACL2021
+   4. [rocketqav2: a joint training method for dense passage retrieval and passage re-ranking](https://arxiv.org/abs/2110.07367) Ruiyang Ren et al., 2021.10 EMNLP2021
+   5. [Optimizing Dense Retrieval Model Training with Hard Negatives](https://arxiv.org/abs/2104.08051) Jingtao Zhan et al., 2021.04 SIGIR2021
+   6. [Conan-embedding: General Text Embedding with More and Better Negative Samples](https://arxiv.org/abs/2408.15710) Shiyu Li et al., 2024.08
 3. Interaction  
    1. D-q:
-      1. DRPQ: Improving Document Representations by Generating Pseudo Query Embeddings for Dense Retrieval
-      2. I3 Retriever: Incorporating Implicit Interaction in Pre-trained Language Models for Passage Retrieval
-      3. DCE: Learning Diverse Document Representations with Deep Query Interactions for Dense Retrieval
+      1. [DRPQ: Improving Document Representations by Generating Pseudo Query Embeddings for Dense Retrieval](https://arxiv.org/abs/2105.03599) Hongyin Tang et al., 2021.03  ACL2021
+      2. [I3 Retriever: Incorporating Implicit Interaction in Pre-trained Language Models for Passage Retrieval](https://arxiv.org/abs/2306.02371) Qian Dong et al., 2023.07   CIKM2023
+      3. [DCE: Learning Diverse Document Representations with Deep Query Interactions for Dense Retrieval](https://arxiv.org/abs/2208.04232) Zehan Li et al., 2022.08
+      4. [CAPSTONE:Curriculum Sampling for Dense Retrieval with Document Expansion](https://aclanthology.org/2023.emnlp-main.651.pdf) Xingwei He et al., EMNLP2023
    2. q-D  
-      1. Improving Query Representations for Dense Retrieval with Pseudo Relevance Feedback
+      1. [Improving Query Representations for Dense Retrieval with Pseudo Relevance Feedback](https://arxiv.org/abs/2108.13454) HongChien Yu et al., 2021.08 CIKM2021
+3. Multi-vector
+   1. [ColBERT: E€icient and E€ective Passage Search via Contextualized Late Interaction over BERT](https://arxiv.org/pdf/2004.12832)  Omar KhaŠab et al., 2020.07 SIGIR2020
+     
 5. pre-train methods:
    1. Auto-encoding:
-       1. Less is More: Pre-train a Strong Text Encoder for Dense Retrieval Using a Weak Decoder
-       2. Retromae: Pre-training retrieval-oriented transformers via masked autoencoder
-       3. ConTextual Masked Auto-Encoder for Dense Passage Retrieval
-       4. SimLM: Pre-training with Representation Bottleneck for Dense Passage Retrieval
-       5. MASTER: Multi-task Pre-trained Bottlenecked Masked Autoencoders are Better Dense Retrievers
+       1. [Less is More: Pre-train a Strong Text Encoder for Dense Retrieval Using a Weak Decoder](https://arxiv.org/abs/2102.09206) Shuqi Lu et al., 2021.02 EMNLP2021
+       2. [Retromae: Pre-training retrieval-oriented transformers via masked autoencoder](https://arxiv.org/abs/2205.12035) Shitao Xiao et al., 2022.03, EMNLP2022
+       3. [ConTextual Masked Auto-Encoder for Dense Passage Retrieval](https://arxiv.org/abs/2208.07670) Xing Wu et al., 2022.08 AAAI2023
+       4. [SimLM: Pre-training with Representation Bottleneck for Dense Passage Retrieval](https://aclanthology.org/2023.acl-long.125/) Liang Wang et al., ACL2023
+       5. [MASTER: Multi-task Pre-trained Bottlenecked Masked Autoencoders are Better Dense Retrievers](https://arxiv.org/abs/2212.07841) Kun Zhou et al., 2022.12 ECML-PKDD 2023
    2. Transformers:
-      1. Condenser: a Pre-training Architecture for Dense Retrieval
+      1. [Condenser: a Pre-training Architecture for Dense Retrieval](https://arxiv.org/abs/2104.08253) Luyu Gao et al., 2021.04 EMNLP2021
    3. Representative Words Prediction
-      1. PROP: Pre-training with Representative Words Prediction for Ad-hoc Retrieval
-      2. B-PROP: Bootstrapped Pre-training with Representative Words Prediction for Ad-hoc Retrieval.
+      1. [PROP: Pre-training with Representative Words Prediction for Ad-hoc Retrieval](https://arxiv.org/abs/2010.10137) Xinyu Ma et al., WSDM2021, 2020.10
+      2. [B-PROP: Bootstrapped Pre-training with Representative Words Prediction for Ad-hoc Retrieval](https://arxiv.org/abs/2104.09791) SIGIR2021 2021.04
    3. Others:
-      1. How to Train Your DRAGON: Diverse Augmentation Towards Generalizable Dense Retrieval [paper link](https://arxiv.org/pdf/2302.07452) 2023.02
-      2. M3-Embedding: Multi-Linguality, Multi-Functionality, Multi-Granularity Text Embeddings Through Self-Knowledge Distillation [paper link](https://arxiv.org/pdf/2402.03216)  Jianlv Chen et al., 2024 07
+      1. [How to Train Your DRAGON: Diverse Augmentation Towards Generalizable Dense Retrieval](https://arxiv.org/pdf/2302.07452) 2023.02
+      2. [M3-Embedding: Multi-Linguality, Multi-Functionality, Multi-Granularity Text Embeddings Through Self-Knowledge Distillation] (https://arxiv.org/pdf/2402.03216)  Jianlv Chen et al., 2024 07
 
 
 
