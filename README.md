@@ -79,6 +79,9 @@ Dense Retrieval (ACL 2024)**
 7. LLM2Vec: Large Language Models Are Secretly Powerful Text Encoders(2024) [paper link](https://arxiv.org/pdf/2404.05961)
 8. NV-Retriever: Improving text embedding models with effective hard-negative mining [paper link](https://arxiv.org/pdf/2407.15831)
 9. ScalingNote: Scaling up Retrievers with Large Language Models for Real-World Dense Retrieval, Suyuan Huang, et al.,  [paper link](https://arxiv.org/pdf/2411.15766)
+10. Unleashing the Power of LLMs in Dense Retrieval with Query Likelihood Modeling, Hengran Zhang, et al., Arxiv2025, [paper link](https://arxiv.org/pdf/2504.05216)
+11. Scaling Sparse and Dense Retrieval in Decoder-Only LLMs, Hansi Zeng, et al., [paper](https://arxiv.org/abs/2502.15526)
+
 
 # re-Ranking
 
@@ -116,6 +119,8 @@ Dense Retrieval (ACL 2024)**
 15. JudgeRank: Leveraging Large Language Models for Reasoning-Intensive Reranking [paper](/https://arxiv.org/pdf/2411.00142)
 16. FIRST: Faster Improved Listwise Reranking with Single Token Decoding [paper](https://arxiv.org/pdf/2406.15657) Revanth Gangi Reddy, et al., EMNLP2024
 17. Self-Calibrated Listwise Reranking with Large Language Models [paper](https://arxiv.org/pdf/2411.04602) Ruiyang Ren, et al., WWW25
+18. Distillation and Refinement of Reasoning in Small Language Models for Document Re-ranking, Chris Samarinas,Hamed Zamani, Arxiv2025  [paper](https://arxiv.org/abs/2504.03947)
+19. 
       
 
    
