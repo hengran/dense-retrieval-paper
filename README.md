@@ -110,8 +110,6 @@ Dense Retrieval (ACL 2024)**
    2. zero-shot
 9. Zero-Shot Cross-Lingual Reranking with Large Language Models for Low-Resource Languages  [paper](https://aclanthology.org/2024.acl-short.59/) Mofetoluwa Adeyemi, et al., ACL'24 short
 10. Leveraging Passage Embeddings for Efficient Listwise Reranking with Large Language Models(WWW'25) [paper](https://arxiv.org/pdf/2406.14848)
-   1. Pointwise
-   2. zero-shot
 11. PaRaDe: Passage Ranking using Demonstrations with Large Language Models(Findings of EMNLP'23) [paper](https://aclanthology.org/2023.findings-emnlp.950.pdf)
 12. APEER : Automatic Prompt Engineering Enhances Large Language Model Reranking(Arxiv'24) [paper](https://arxiv.org/pdf/2406.14449)
 13. Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agents(EMNLP'23) [paper](https://arxiv.org/pdf/2304.09542)
@@ -120,7 +118,7 @@ Dense Retrieval (ACL 2024)**
 16. FIRST: Faster Improved Listwise Reranking with Single Token Decoding [paper](https://arxiv.org/pdf/2406.15657) Revanth Gangi Reddy, et al., EMNLP2024
 17. Self-Calibrated Listwise Reranking with Large Language Models [paper](https://arxiv.org/pdf/2411.04602) Ruiyang Ren, et al., WWW25
 18. Distillation and Refinement of Reasoning in Small Language Models for Document Re-ranking, Chris Samarinas,Hamed Zamani, Arxiv2025  [paper](https://arxiv.org/abs/2504.03947)
-19. 
+    
       
 
    
