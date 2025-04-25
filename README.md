@@ -109,10 +109,10 @@ Dense Retrieval (ACL 2024)**
    1. Pairwise
    2. zero-shot
 9. [Zero-Shot Cross-Lingual Reranking with Large Language Models for Low-Resource Languages](https://aclanthology.org/2024.acl-short.59/) Mofetoluwa Adeyemi, et al., ACL'24 short
-10. [Leveraging Passage Embeddings for Efficient Listwise Reranking with Large Language Models](https://arxiv.org/pdf/2406.14848)(WWW'25)
-11. [PaRaDe: Passage Ranking using Demonstrations with Large Language Models](https://aclanthology.org/2023.findings-emnlp.950.pdf)(Findings of EMNLP'23)
-12. [APEER : Automatic Prompt Engineering Enhances Large Language Model Reranking][paper](https://arxiv.org/pdf/2406.14449)
-13. [Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agents(EMNLP'23)paper](https://arxiv.org/pdf/2304.09542)
+10. [Leveraging Passage Embeddings for Efficient Listwise Reranking with Large Language Models](https://arxiv.org/pdf/2406.14848) Qi Liu et al., (WWW'25)
+11. [PaRaDe: Passage Ranking using Demonstrations with Large Language Models](https://aclanthology.org/2023.findings-emnlp.950.pdf)(Andrew Drozdov et al., Findings of EMNLP'23)
+12. [APEER : Automatic Prompt Engineering Enhances Large Language Model Reranking](https://arxiv.org/pdf/2406.14449)Can Jin, et al., Arxiv2024
+13. [Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agents](https://arxiv.org/pdf/2304.09542)(EMNLP'23)
 14. [Are Large Language Models Good at Utility Judgments?](https://arxiv.org/pdf/2403.19216) Hengran Zhang, et al., (SIGIR'24) 
 15. [JudgeRank: Leveraging Large Language Models for Reasoning-Intensive Reranking](/https://arxiv.org/pdf/2411.00142)
 16. [FIRST: Faster Improved Listwise Reranking with Single Token Decoding](https://arxiv.org/pdf/2406.15657) Revanth Gangi Reddy, et al., EMNLP2024
