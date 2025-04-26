@@ -25,7 +25,7 @@
        3. [ConTextual Masked Auto-Encoder for Dense Passage Retrieval](https://arxiv.org/abs/2208.07670) Xing Wu et al., 2022.08 AAAI2023
        4. [SimLM: Pre-training with Representation Bottleneck for Dense Passage Retrieval](https://aclanthology.org/2023.acl-long.125/) Liang Wang et al., ACL2023
        5. [MASTER: Multi-task Pre-trained Bottlenecked Masked Autoencoders are Better Dense Retrievers](https://arxiv.org/abs/2212.07841) Kun Zhou et al., 2022.12 ECML-PKDD 2023
-       6. [Drop your Decoder: Pre-training with Bag-of-Word Prediction for Dense Passage Retrieval] Guangyuan Ma, et al., SIGIR2024
+       6. [Drop your Decoder: Pre-training with Bag-of-Word Prediction for Dense Passage Retrieval](https://arxiv.org/abs/2401.11248) Guangyuan Ma, et al., SIGIR2024
    2. Transformers:
       1. [Condenser: a Pre-training Architecture for Dense Retrieval](https://arxiv.org/abs/2104.08253) Luyu Gao et al., 2021.04 EMNLP2021
    3. Representative Words Prediction
