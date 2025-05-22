@@ -57,6 +57,10 @@
    6. CONTEXT-AUGMENTED CODE GENERATION USING PROGRAMMING KNOWLEDGE GRAPHS,  Iman Saberi, et.al., 2024.10.9
    7. Evaluating Retrieval Quality in Retrieval-Augmented Generation.  Alireza Salem, et al., SIGIR2024
    8. Bridging the Preference Gap between Retrievers and LLMs. Zixuan Ke et al. ACL2024
+2. Query reformulation
+   1.   [Large Language Models are Strong Zero-Shot Retriever](https://arxiv.org/pdf/2304.14233) Tao Shen, et al., ACL2024 Findings
+3. Zero-shot encoder
+   1. [PromptReps: Prompting Large Language Models to Generate Dense and Sparse Representations for Zero-Shot Document Retrieval](https://arxiv.org/pdf/2404.18424) Shengyao Zhuang, et al., EMNLP2024     
       
 ### LLMs in dense retrieval (LLMs as encoder)
 1. Fine-tuning LLaMa for Multi-stage Text Retrieval(SIGIR 2024)
@@ -86,7 +90,7 @@ Dense Retrieval (ACL 2024)**
 # re-Ranking
 
 
-## LLMs for reranking
+## LLMs for ranking
 1. [A Setwise Approach for Effective and Highly Efficient Zero-shot Ranking with Large Language Models](https://dl.acm.org/doi/pdf/10.1145/3626772.3657813)SIGIR 2024
       1. Listwise
       2. Zero-shot
@@ -120,6 +124,7 @@ Dense Retrieval (ACL 2024)**
 18. [Self-Calibrated Listwise Reranking with Large Language Models](https://arxiv.org/pdf/2411.04602) Ruiyang Ren, et al., WWW25
 19. [Distillation and Refinement of Reasoning in Small Language Models for Document Re-ranking](https://arxiv.org/abs/2504.03947), Chris Samarinas,Hamed Zamani, Arxiv2025
 20. [RankZephyr: Effective and Robust Zero-Shot Listwise Reranking is a Breeze!](https://arxiv.org/pdf/2312.02724) Ronak Pradeep, et al., Arxiv2023
+21. [Open-source Large Language Models are Strong Zero-shot Query Likelihood Models for Document Ranking](https://arxiv.org/pdf/2310.13243) Shengyao Zhuang, et al., EMNLP2023 Findings
 
     
     
