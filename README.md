@@ -31,6 +31,8 @@
    3. Representative Words Prediction
       1. [PROP: Pre-training with Representative Words Prediction for Ad-hoc Retrieval](https://arxiv.org/abs/2010.10137) Xinyu Ma et al., WSDM2021, 2020.10
       2. [B-PROP: Bootstrapped Pre-training with Representative Words Prediction for Ad-hoc Retrieval](https://arxiv.org/abs/2104.09791) SIGIR2021 2021.04
+   3. Synthetic data generation
+      1. [Multi-stage Training with Improved Negative Contrast for Neural Passage Retrieval](https://aclanthology.org/2021.emnlp-main.492.pdf) Jing Lu et al., EMNLP2021
    3. Others:
       1. [How to Train Your DRAGON: Diverse Augmentation Towards Generalizable Dense Retrieval](https://arxiv.org/pdf/2302.07452) 2023.02
       2. [M3-Embedding: Multi-Linguality, Multi-Functionality, Multi-Granularity Text Embeddings Through Self-Knowledge Distillation](https://arxiv.org/pdf/2402.03216)  Jianlv Chen et al., 2024 07
