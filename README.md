@@ -65,28 +65,32 @@
    1. [PromptReps: Prompting Large Language Models to Generate Dense and Sparse Representations for Zero-Shot Document Retrieval](https://arxiv.org/pdf/2404.18424) Shengyao Zhuang, et al., EMNLP2024     
       
 ### LLMs in dense retrieval (LLMs as encoder)
-1. Fine-tuning LLaMa for Multi-stage Text Retrieval(SIGIR 2024)
+1. [Fine-tuning LLaMa for Multi-stage Text Retrieval](https://arxiv.org/pdf/2310.08319)(SIGIR 2024)
    1. add eos token
    2. use the eos hidden states to embed whole sentence
-3. Making Large Language Models a Better Foundation For Dense Retrieval(2023)-> **Llama2Vec: Unsupervised Adaptation of Large Language Models for
-Dense Retrieval (ACL 2024)**
+3. Making Large Language Models a Better Foundation For Dense Retrieval(2023)-> **[Llama2Vec: Unsupervised Adaptation of Large Language Models for
+Dense Retrieval](https://aclanthology.org/2024.acl-long.191/) (ACL 2024)**
    1. first work on pre-training for dense retrieval using LLMs
    2. motivation: As a result, the LLMs’ output embeddings will mainly focus on capturing the local and near-future semantic of the context. However, dense retrieval calls for embeddings to represent the global semantic of the entire context.
-4. Improving Text Embeddings with Large Language Models(2023) [paper link](https://arxiv.org/pdf/2401.00368)
+4. [Improving Text Embeddings with Large Language Models(2023)](https://arxiv.org/pdf/2401.00368), Liang Wang, et al., ACL2024
    1. E5-mistral-7B
    2. fine-tuning on both the generated synthetic data and a collection of 13 public datasets.
-5. NV-Embed: Improved Techniques for Training LLMs as Generalist Embedding Models(2024) [paper link](https://arxiv.org/pdf/2405.17428)
+5. [NV-Embed: Improved Techniques for Training LLMs as Generalist Embedding Models(2024)](https://arxiv.org/pdf/2405.17428), ICLR25
    1. Two stage fine-tuning task:
         1. It first applies contrastive training with instructions on retrieval datasets, utilizing in-batch negatives and curated hard negative examples.
         2. At stage-2, it blends various non-retrieval datasets into instruction tuning, which not only enhances non-retrieval task accuracy but also improves retrieval performance.
-6. Repetition Improves Language Model Embeddings(2023) [paper link](https://arxiv.org/pdf/2402.15449)
+6. [Repetition Improves Language Model Embeddings(2023)](https://arxiv.org/pdf/2402.15449), Jacob Mitchell Springer, et al., ICLR25
    1. input the query or passage twice.
    2. improve the embedding of the last token.
-7. LLM2Vec: Large Language Models Are Secretly Powerful Text Encoders(2024) [paper link](https://arxiv.org/pdf/2404.05961)
-8. NV-Retriever: Improving text embedding models with effective hard-negative mining [paper link](https://arxiv.org/pdf/2407.15831)
-9. ScalingNote: Scaling up Retrievers with Large Language Models for Real-World Dense Retrieval, Suyuan Huang, et al.,  [paper link](https://arxiv.org/pdf/2411.15766)
-10. Unleashing the Power of LLMs in Dense Retrieval with Query Likelihood Modeling, Hengran Zhang, et al., Arxiv2025, [paper link](https://arxiv.org/pdf/2504.05216)
-11. Scaling Sparse and Dense Retrieval in Decoder-Only LLMs, Hansi Zeng, et al., [paper](https://arxiv.org/abs/2502.15526)
+7. [LLM2Vec: Large Language Models Are Secretly Powerful Text Encoders](https://arxiv.org/pdf/2404.05961), Parishad BehnamGhader, et al., COLM2024
+8. [NV-Retriever: Improving text embedding models with effective hard-negative mining](https://arxiv.org/pdf/2407.15831), Gabriel de Souza P. Moreira, Feb 2025, Arxiv
+9. [ScalingNote: Scaling up Retrievers with Large Language Models for Real-World Dense Retrieval](https://arxiv.org/pdf/2411.15766), Suyuan Huang, et al., 
+10. [Unleashing the Power of LLMs in Dense Retrieval with Query Likelihood Modeling](https://arxiv.org/pdf/2504.05216), Hengran Zhang, et al., Arxiv2025
+11. [Scaling Sparse and Dense Retrieval in Decoder-Only LLMs](https://arxiv.org/abs/2502.15526), Hansi Zeng, et al., SISGIR25
+12. Gemini key technologies: [Gecko: Versatile Text Embeddings Distilled from Large Language Models](https://arxiv.org/pdf/2403.20327) Jinhyuk Lee, et al., 9 Mar 2024, Arxiv
+13. NovaSearch [Jasper and Stella: distillation of SOTA embedding models](https://arxiv.org/pdf/2403.20327) Dun Zhang, et al., 23 Jan 2025, Arxiv
+14. [Linq-Embed-Mistral Report](https://huggingface.co/Linq-AI-Research/Linq-Embed-Mistral/blob/main/LinqAIResearch2024_Linq-Embed-Mistral.pdf) Junseong Kim, et al., May 2024
+
 
 
 # re-Ranking
