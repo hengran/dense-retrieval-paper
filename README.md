@@ -7,7 +7,9 @@
    4. [rocketqav2: a joint training method for dense passage retrieval and passage re-ranking](https://arxiv.org/abs/2110.07367) Ruiyang Ren et al., 2021.10 EMNLP2021
    5. [Optimizing Dense Retrieval Model Training with Hard Negatives](https://arxiv.org/abs/2104.08051) Jingtao Zhan et al., 2021.04 SIGIR2021
    6. [Conan-embedding: General Text Embedding with More and Better Negative Samples](https://arxiv.org/abs/2408.15710) Shiyu Li et al., 2024.08
-   7. [SamToNe: Improving Contrastive Loss for Dual Encoder Retrieval Models with Same Tower Negatives](https://arxiv.org/pdf/2306.02516) Fedor Moiseev, et al., ACL Findings 2023
+2. Loss function:
+   1. [SamToNe: Improving Contrastive Loss for Dual Encoder Retrieval Models with Same Tower Negatives](https://arxiv.org/pdf/2306.02516) Fedor Moiseev, et al., ACL Findings 2023
+   2. [PAIR: Leveraging Passage-Centric Similarity Relation for Improving Dense Passage Retrieval](https://aclanthology.org/2021.findings-acl.191.pdf) Ruiyang Ren, et al., ACL Findings 2021
 3. Interaction  
    1. D-q:
       1. [DRPQ: Improving Document Representations by Generating Pseudo Query Embeddings for Dense Retrieval](https://arxiv.org/abs/2105.03599) Hongyin Tang et al., 2021.03  ACL2021
@@ -16,7 +18,7 @@
       4. [CAPSTONE:Curriculum Sampling for Dense Retrieval with Document Expansion](https://aclanthology.org/2023.emnlp-main.651.pdf) Xingwei He et al., EMNLP2023
    2. q-D  
       1. [Improving Query Representations for Dense Retrieval with Pseudo Relevance Feedback](https://arxiv.org/abs/2108.13454) HongChien Yu et al., 2021.08 CIKM2021
-3. Multi-vector
+4. Multi-vector
    1. [ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT](https://arxiv.org/pdf/2004.12832)  Omar KhaŠab et al., 2020.07 SIGIR2020
      
 5. pre-train methods:
