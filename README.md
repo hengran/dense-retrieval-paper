@@ -131,6 +131,7 @@ Dense Retrieval](https://aclanthology.org/2024.acl-long.191/) (ACL 2024)**
 19. [Distillation and Refinement of Reasoning in Small Language Models for Document Re-ranking](https://arxiv.org/abs/2504.03947), Chris Samarinas,Hamed Zamani, Arxiv2025
 20. [RankZephyr: Effective and Robust Zero-Shot Listwise Reranking is a Breeze!](https://arxiv.org/pdf/2312.02724) Ronak Pradeep, et al., Arxiv2023
 21. [Open-source Large Language Models are Strong Zero-shot Query Likelihood Models for Document Ranking](https://arxiv.org/pdf/2310.13243) Shengyao Zhuang, et al., EMNLP2023 Findings
+22. [Adapting Decoder-Based Language Models for Diverse Encoder Downstream Tasks](https://arxiv.org/pdf/2503.02656) Paul Suganthan, et al., March Arxiv2025
 
     
     
