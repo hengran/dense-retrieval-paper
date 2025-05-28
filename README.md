@@ -21,7 +21,7 @@
 4. Multi-vector
    1. [ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT](https://arxiv.org/pdf/2004.12832)  Omar KhaŠab et al., 2020.07 SIGIR2020
      
-5. pre-train methods:
+5. Pre-training methods:
    1. Auto-encoding:
        1. [Less is More: Pre-train a Strong Text Encoder for Dense Retrieval Using a Weak Decoder](https://arxiv.org/abs/2102.09206) Shuqi Lu et al., 2021.02 EMNLP2021
        2. [Retromae: Pre-training retrieval-oriented transformers via masked autoencoder](https://arxiv.org/abs/2205.12035) Shitao Xiao et al., 2022.03, EMNLP2022
