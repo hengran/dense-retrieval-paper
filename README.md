@@ -100,43 +100,51 @@ Dense Retrieval](https://aclanthology.org/2024.acl-long.191/) (ACL 2024)**
 
 
 ## LLMs for ranking
-1. [A Setwise Approach for Effective and Highly Efficient Zero-shot Ranking with Large Language Models](https://dl.acm.org/doi/pdf/10.1145/3626772.3657813)SIGIR 2024
-      1. Listwise
+### Zero-shot
+   1. [A Setwise Approach for Effective and Highly Efficient Zero-shot Ranking with Large Language Models](https://dl.acm.org/doi/pdf/10.1145/3626772.3657813)SIGIR 2024
+         1. Listwise
+         2. Zero-shot
+   2. [PRP-Graph: Pairwise Ranking Prompting to LLMs with Graph Aggregation for Effective Text Re-ranking](https://aclanthology.org/2024.acl-long.313.pdf)(ACL 2024)
+         1. Pairwise
+         2. Zero-shot
+   3. [RankVicuna: Zero-Shot Listwise Document Reranking with Open-Source Large Language Models](https://arxiv.org/pdf/2309.15088) (Arxiv'23)/[RankZephyr: Effective and Robust Zero-Shot Listwise Reranking is a Breeze!](https://arxiv.org/pdf/2312.02724) Ronak Pradeep, et al., Arxiv2023
+         1. Listwise
+         2. Zero-shot
+   4. [Improving Zero-shot LLM Re-Ranker with Risk Minimization](https://arxiv.org/pdf/2406.13331)(EMNLP'2024)
+      1. Pointwise
       2. Zero-shot
-2. [PRP-Graph: Pairwise Ranking Prompting to LLMs with Graph Aggregation for Effective Text Re-ranking](https://aclanthology.org/2024.acl-long.313.pdf)(ACL 2024)
+   5. [RankRAG: Unifying Context Ranking with Retrieval-Augmented Generation in LLMs](https://arxiv.org/pdf/2407.02485v1)(Arxiv'24)
+      1. Listwise
+      2. Instruct-tuning
+   6. [Re-Ranking Step by Step: Investigating Pre-Filtering for Re-Ranking with Large Language Models](https://arxiv.org/pdf/2406.18740)Arxiv2024
+      1. Listwise
+      2. zero-shot
+   8. [Lightweight reranking for language model generations](https://aclanthology.org/2024.acl-long.376.pdf)ACL'24
       1. Pairwise
-      2. Zero-shot
-3. [RankVicuna: Zero-Shot Listwise Document Reranking with Open-Source Large Language Models](https://arxiv.org/pdf/2309.15088) (Arxiv'23)
-      1. Listwise
-      2. Zero-shot
-4. [Improving Zero-shot LLM Re-Ranker with Risk Minimization](https://arxiv.org/pdf/2406.13331)(EMNLP'2024)
-   1. Pointwise
-   2. Zero-shot
-5. [RankRAG: Unifying Context Ranking with Retrieval-Augmented Generation in LLMs](https://arxiv.org/pdf/2407.02485v1)(Arxiv'24)
-   1. Listwise
-   2. Instruct-tuning
-6. [Re-Ranking Step by Step: Investigating Pre-Filtering for Re-Ranking with Large Language Models](https://arxiv.org/pdf/2406.18740)Arxiv2024
-   1. Listwise
-   2. zero-shot
-8. [Lightweight reranking for language model generations](https://aclanthology.org/2024.acl-long.376.pdf)ACL'24
-   1. Pairwise
-   2. zero-shot
-9. [Open-source Large Language Models are Strong Zero-shot Query Likelihood Models for Document Ranking](https://aclanthology.org/2023.findings-emnlp.590.pdf)Shengyao Zhuang, et al., EMNLP2023 Findings
-10. [Zero-Shot Cross-Lingual Reranking with Large Language Models for Low-Resource Languages](https://aclanthology.org/2024.acl-short.59/) Mofetoluwa Adeyemi, et al., ACL'24 short
-11. [Leveraging Passage Embeddings for Efficient Listwise Reranking with Large Language Models](https://arxiv.org/pdf/2406.14848) Qi Liu et al., (WWW'25)
-12. [PaRaDe: Passage Ranking using Demonstrations with Large Language Models](https://aclanthology.org/2023.findings-emnlp.950.pdf)(Andrew Drozdov et al., Findings of EMNLP'23)
-13. [APEER : Automatic Prompt Engineering Enhances Large Language Model Reranking](https://arxiv.org/pdf/2406.14449)Can Jin, et al., Arxiv2024
-14. [Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agents](https://arxiv.org/pdf/2304.09542)(EMNLP'23)
-15. [Are Large Language Models Good at Utility Judgments?](https://arxiv.org/pdf/2403.19216) Hengran Zhang, et al., (SIGIR'24) 
-16. [JudgeRank: Leveraging Large Language Models for Reasoning-Intensive Reranking](/https://arxiv.org/pdf/2411.00142)
-17. [FIRST: Faster Improved Listwise Reranking with Single Token Decoding](https://arxiv.org/pdf/2406.15657) Revanth Gangi Reddy, et al., EMNLP2024
-18. [Self-Calibrated Listwise Reranking with Large Language Models](https://arxiv.org/pdf/2411.04602) Ruiyang Ren, et al., WWW25
-19. [Distillation and Refinement of Reasoning in Small Language Models for Document Re-ranking](https://arxiv.org/abs/2504.03947), Chris Samarinas,Hamed Zamani, Arxiv2025
-20. [RankZephyr: Effective and Robust Zero-Shot Listwise Reranking is a Breeze!](https://arxiv.org/pdf/2312.02724) Ronak Pradeep, et al., Arxiv2023
-21. [Open-source Large Language Models are Strong Zero-shot Query Likelihood Models for Document Ranking](https://arxiv.org/pdf/2310.13243) Shengyao Zhuang, et al., EMNLP2023 Findings
-22. [Adapting Decoder-Based Language Models for Diverse Encoder Downstream Tasks](https://arxiv.org/pdf/2503.02656) Paul Suganthan, et al., March Arxiv2025
-
+      2. zero-shot
+   9. [JudgeRank: Leveraging Large Language Models for Reasoning-Intensive Reranking](/https://arxiv.org/pdf/2411.00142)
+         Pointwise: core question->select key sentences->relevance judgment
+   10. [Open-source Large Language Models are Strong Zero-shot Query Likelihood Models for Document Ranking](https://aclanthology.org/2023.findings-emnlp.590.pdf)Shengyao Zhuang, et al., EMNLP2023 Findings
+   11. [Zero-Shot Cross-Lingual Reranking with Large Language Models for Low-Resource Languages](https://aclanthology.org/2024.acl-short.59/) Mofetoluwa Adeyemi, et al., ACL'24 short
+   12. [Improving Passage Retrieval with Zero-Shot Question Generation](https://arxiv.org/pdf/2204.07496) Devendra Singh Sachan et al., EMNL2022
+   13. [Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agents](https://arxiv.org/pdf/2304.09542)(EMNLP'23)
+   14. [Are Large Language Models Good at Utility Judgments?](https://arxiv.org/pdf/2403.19216) Hengran Zhang, et al., (SIGIR'24)
+   15. [Distillation and Refinement of Reasoning in Small Language Models for Document Re-ranking](https://arxiv.org/abs/2504.03947), Chris Samarinas,Hamed Zamani, Arxiv2025
+   16. [Beyond Yes and No: Improving Zero-Shot LLM Rankers via Scoring Fine-Grained Relevance Labels](https://arxiv.org/pdf/2310.14122), Honglei Zhuang, NACCL2024
+       Log-probability of the relevance label 
+   18. [PaRaDe: Passage Ranking using Demonstrations with Large Language Models](https://aclanthology.org/2023.findings-emnlp.950.pdf)(Andrew Drozdov et al., Findings of EMNLP'23 short paper)
+       Using the demonstration query likelihood to estimate difficulty and then select demonstration
+   19. [APEER : Automatic Prompt Engineering Enhances Large Language Model Reranking](https://arxiv.org/pdf/2406.14449)Can Jin, et al., WWW'25
+        Refined the prompt for ranking directly using LLMs
+   20. [Open-source Large Language Models are Strong Zero-shot Query Likelihood Models for Document Ranking](https://arxiv.org/pdf/2310.13243) Shengyao Zhuang, et al., EMNLP2023 Findings
+### Fine-tuning
+1. [Leveraging Passage Embeddings for Efficient Listwise Reranking with Large Language Models](https://arxiv.org/pdf/2406.14848) Qi Liu et al., (WWW'25)
+      To address the high latency of LLM inference on listwise ranking
+2. [FIRST: Faster Improved Listwise Reranking with Single Token Decoding](https://arxiv.org/pdf/2406.15657) Revanth Gangi Reddy, et al., EMNLP2024
+3. [Self-Calibrated Listwise Reranking with Large Language Models](https://arxiv.org/pdf/2411.04602) Ruiyang Ren, et al., WWW25
+4. [Adapting Decoder-Based Language Models for Diverse Encoder Downstream Tasks](https://arxiv.org/pdf/2503.02656) Paul Suganthan, et al., March Arxiv2025
     
+
     
       
 
