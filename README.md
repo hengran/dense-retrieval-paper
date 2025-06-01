@@ -93,6 +93,7 @@ Dense Retrieval](https://aclanthology.org/2024.acl-long.191/) (ACL 2024)**
 12. Gemini key technologies: [Gecko: Versatile Text Embeddings Distilled from Large Language Models](https://arxiv.org/pdf/2403.20327) Jinhyuk Lee, et al., 9 Mar 2024, Arxiv
 13. NovaSearch [Jasper and Stella: distillation of SOTA embedding models](https://arxiv.org/pdf/2403.20327) Dun Zhang, et al., 23 Jan 2025, Arxiv
 14. [Linq-Embed-Mistral Report](https://huggingface.co/Linq-AI-Research/Linq-Embed-Mistral/blob/main/LinqAIResearch2024_Linq-Embed-Mistral.pdf) Junseong Kim, et al., May 2024
+15. [PromptReps: Prompting Large Language Models to Generate Dense and Sparse Representations for Zero-Shot Document Retrieval](https://arxiv.org/pdf/2404.18424) Shengyao Zhuang, et al., EMNLP2024
 
 
 
