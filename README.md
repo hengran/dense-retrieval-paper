@@ -98,7 +98,7 @@ Dense Retrieval](https://aclanthology.org/2024.acl-long.191/) (ACL 2024)**
 
 
 
-# re-Ranking
+# Ranking
 
 
 ## LLMs for ranking
