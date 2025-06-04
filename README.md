@@ -45,11 +45,11 @@
 # LLMs coming
 ***
 
-## LLMs help retriever
 1. W-RAG: Weakly Supervised Dense Retrieval in RAG for Open-domain Question Answering (2024) [paper link](https://arxiv.org/pdf/2408.08444)
 2. REPLUG: Retrieval-Augmented Black-Box Language Models (NAACL 2024) [paper link](https://aclanthology.org/2024.naacl-long.463.pdf)
     **key point**: Generation helps retrieval.
 3. A Case Study of Enhancing Sparse Retrieval using LLMs (WWW'24) [paper](https://dl.acm.org/doi/pdf/10.1145/3589335.3651945)
+
 
      
 ## LLMs for IR post-processing (relevance in retriever, and utility or usefulness in generator)
@@ -64,6 +64,7 @@
    8. Bridging the Preference Gap between Retrievers and LLMs. Zixuan Ke et al. ACL2024
 2. Query reformulation
    1.   [Large Language Models are Strong Zero-Shot Retriever](https://arxiv.org/pdf/2304.14233) Tao Shen, et al., ACL2024 Findings
+   2.   [Precise Zero-Shot Dense Retrieval without Relevance Labels](https://aclanthology.org/2023.acl-long.99.pdf)Luyu Gao, et al., ACL2023
 3. Zero-shot encoder
    1. [PromptReps: Prompting Large Language Models to Generate Dense and Sparse Representations for Zero-Shot Document Retrieval](https://arxiv.org/pdf/2404.18424) Shengyao Zhuang, et al., EMNLP2024     
       
