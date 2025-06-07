@@ -96,7 +96,10 @@ Dense Retrieval](https://aclanthology.org/2024.acl-long.191/) (ACL 2024)**
 14. [Linq-Embed-Mistral Report](https://huggingface.co/Linq-AI-Research/Linq-Embed-Mistral/blob/main/LinqAIResearch2024_Linq-Embed-Mistral.pdf) Junseong Kim, et al., May 2024
 15. [PromptReps: Prompting Large Language Models to Generate Dense and Sparse Representations for Zero-Shot Document Retrieval](https://arxiv.org/pdf/2404.18424) Shengyao Zhuang, et al., EMNLP2024
 16. [Scaling sentence embeddings with large language models](https://arxiv.org/abs/2307.16645) Ting Jiang, et al., EMNLP2024 Findings
-17. [Improving General Text Embedding Model: Tackling Task Conflict and Data Imbalance through Model Merging](https://arxiv.org/abs/2410.15035) Mingxin Li, et al., Arxiv2024
+17. [Improving General Text Embedding Model: Tackling Task Conflict and Data Imbalance through Model Merging](https://arxiv.org/abs/2410.15035) Mingxin Li, et al., Oct 2024
+18. Qwen3-text-embedding: [Qwen3 Embedding: Advancing Text Embedding and Reranking Through Foundation Models](https://arxiv.org/pdf/2506.05176) Yanzhao Zhang et al., Jun 2025
+19. Gemini: [Generalizable Embeddings from Gemini](https://arxiv.org/abs/2503.07891) Jinhyuk Lee, et al., Mar 2025
+20. BGE-en-icl: [Making Text Embedders Few-Shot Learners](https://arxiv.org/abs/2409.15700) Chaofan Li, et al., ICLR2025 
 
 
 
