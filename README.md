@@ -78,8 +78,6 @@
    2. use the eos hidden states to embed whole sentence
 3. Making Large Language Models a Better Foundation For Dense Retrieval(2023)-> **[Llama2Vec: Unsupervised Adaptation of Large Language Models for
 Dense Retrieval](https://aclanthology.org/2024.acl-long.191/) (ACL 2024)**
-   1. first work on pre-training for dense retrieval using LLMs
-   2. motivation: As a result, the LLMs’ output embeddings will mainly focus on capturing the local and near-future semantic of the context. However, dense retrieval calls for embeddings to represent the global semantic of the entire context.
 4. [Improving Text Embeddings with Large Language Models(2023)](https://arxiv.org/pdf/2401.00368), Liang Wang, et al., ACL2024
    1. E5-mistral-7B
    2. fine-tuning on both the generated synthetic data and a collection of 13 public datasets.
