@@ -55,15 +55,17 @@
 
      
 ## LLMs for IR post-processing (relevance in retriever, and utility or usefulness in generator)
-1. From the perspective of cognition：
+1. From the perspective beyond relevance (Brige retriever and generator for RAG, i.e., selecting what retrieved information for RAG)：
    1. Are Large Language Models Good at Utility Judgments? (Hengran Zhang, SIGIR 2024)
    2. Iterative Utility Judgment Framework via LLMs Inspired by Relevance in Philosophy (Hengran Zhang, 2024.7)
-   3. Corrective Retrieval Augmented Generation, Shi-Qi Yan, et al., Arxirv 2024
+   3. Corrective Retrieval Augmented Generation, Shi-Qi Yan, et al., Arxiv 2024
    4. Similarity is Not All You Need: Endowing Retrieval-Augmented Generation with Multi–layered Thoughts, Chunjing Gan, et al., Arxiv 2024
-   5. ARKS:ActiveRetrieval in Knowledge Soup for Code Generation, Hongjin Su, et al., 2024
+   5. ARKS: Active Retrieval in Knowledge Soup for Code Generation, Hongjin Su, et al., 2024
    6. CONTEXT-AUGMENTED CODE GENERATION USING PROGRAMMING KNOWLEDGE GRAPHS,  Iman Saberi, et.al., 2024.10.9
    7. Evaluating Retrieval Quality in Retrieval-Augmented Generation.  Alireza Salem, et al., SIGIR2024
    8. Bridging the Preference Gap between Retrievers and LLMs. Zixuan Ke et al. ACL2024
+   9. Distilling a Small Utility-Based Passage Selector to Enhance Retrieval-Augmented Generation. Hengran Zhang, Minghao Tang, et al., EMNLP2025 Main
+   10. Utility-Focused LLM Annotation for Retrieval and Retrieval-Augmented Generation. Hengran Zhang, et al, SIGIR-AP25
 2. Query reformulation
    1.   [Large Language Models are Strong Zero-Shot Retriever](https://arxiv.org/pdf/2304.14233) Tao Shen, et al., ACL2024 Findings
    2.   [Precise Zero-Shot Dense Retrieval without Relevance Labels](https://aclanthology.org/2023.acl-long.99.pdf)Luyu Gao, et al., ACL2023
