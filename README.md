@@ -103,7 +103,12 @@ Dense Retrieval](https://aclanthology.org/2024.acl-long.191/) (ACL 2024)**
 19. Gemini: [Generalizable Embeddings from Gemini](https://arxiv.org/abs/2503.07891) Jinhyuk Lee, et al., Mar 2025
 20. BGE-en-icl: [Making Text Embedders Few-Shot Learners](https://arxiv.org/abs/2409.15700) Chaofan Li, et al., ICLR2025
 21. [QZhou-Embedding Technical Report](https://arxiv.org/abs/2508.21632) Peng Yu, et al., Arxiv2025
-22. [Improving General Text Embedding Model: Tackling Task Conflict and Data Imbalance through Model Merging](https://arxiv.org/pdf/2410.15035) Mingxin Li, et al., Arxiv2024
+
+
+#### Model Merging
+1. [Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities](https://arxiv.org/abs/2408.07666)
+2. [Improving General Text Embedding Model: Tackling Task Conflict and Data Imbalance through Model Merging](https://arxiv.org/pdf/2410.15035) Mingxin Li, et al., Arxiv2024
+
 
 
 
