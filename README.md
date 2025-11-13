@@ -1,4 +1,4 @@
-# dense-retrieval
+# Dense Retrieval 
 ## encoder-only
 1. Hard-negative mining methods:
    1. [Dense Passage Retrieval for Open-Domain Question Answering](https://arxiv.org/pdf/2004.04906) Vladimir Karpukhin et al., 2020.09 EMNLP2020
