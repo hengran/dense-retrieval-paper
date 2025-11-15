@@ -147,8 +147,11 @@ Dense Retrieval](https://aclanthology.org/2024.acl-long.191/) (ACL 2024)**
 5. [Adapting Decoder-Based Language Models for Diverse Encoder Downstream Tasks](https://arxiv.org/pdf/2503.02656) Paul Suganthan, et al., March Arxiv2025
 
 ## Efficient Ranking for LLMs: long document compression during listwise ranking
-1. [Leveraging Passage Embeddings for Efficient Listwise Reranking with Large Language Models](https://dl.acm.org/doi/pdf/10.1145/3696410.3714554) Qi Liu, et al., WWW'25
+Before LLMs:
+1. [Long Document Re-ranking with Modular Re-ranker](https://www.cs.cmu.edu/~callan/Papers/sigir22-Luyu_Gao.pdf) Luyu Gao, SIGIR22
 2. [ListT5: Listwise Reranking with Fusion-in-Decoder Improves Zero-shot Retrieval](https://aclanthology.org/2024.acl-long.125.pdf) Soyoung Yoon, et al., (ACL 2024, main)
+After LLMs
+1. [Leveraging Passage Embeddings for Efficient Listwise Reranking with Large Language Models](https://dl.acm.org/doi/pdf/10.1145/3696410.3714554) Qi Liu, et al., WWW'25
 3. [Scalable In-context Ranking with Generative Models](https://arxiv.org/abs/2510.05396) Nilesh Gupta, et al., 8 Oct 2025, Arxiv.
 
     
