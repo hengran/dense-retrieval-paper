@@ -138,13 +138,20 @@ Dense Retrieval](https://aclanthology.org/2024.acl-long.191/) (ACL 2024)**
    16. [APEER : Automatic Prompt Engineering Enhances Large Language Model Reranking](https://arxiv.org/pdf/2406.14449)Can Jin, et al., WWW'25
         Refined the prompt for ranking directly using LLMs
    27. [Open-source Large Language Models are Strong Zero-shot Query Likelihood Models for Document Ranking](https://arxiv.org/pdf/2310.13243) Shengyao Zhuang, et al., EMNLP2023 Findings
-### Fine-tuning
+### Distillation Fine-tuning
 1. [Leveraging Passage Embeddings for Efficient Listwise Reranking with Large Language Models](https://arxiv.org/pdf/2406.14848) Qi Liu et al., (WWW'25)
       To address the high latency of LLM inference on listwise ranking
 2. [FIRST: Faster Improved Listwise Reranking with Single Token Decoding](https://arxiv.org/pdf/2406.15657) Revanth Gangi Reddy, et al., EMNLP2024
 3. [RankVicuna: Zero-Shot Listwise Document Reranking with Open-Source Large Language Models](https://arxiv.org/pdf/2309.15088) (Arxiv'23)/[RankZephyr: Effective and Robust Zero-Shot Listwise Reranking is a Breeze!](https://arxiv.org/pdf/2312.02724) Ronak Pradeep, et al., Arxiv2023
 4. [Self-Calibrated Listwise Reranking with Large Language Models](https://arxiv.org/pdf/2411.04602) Ruiyang Ren, et al., WWW25
 5. [Adapting Decoder-Based Language Models for Diverse Encoder Downstream Tasks](https://arxiv.org/pdf/2503.02656) Paul Suganthan, et al., March Arxiv2025
+6. [Sliding windows are not the end: Exploring full ranking with long-context large language models](https://aclanthology.org/2025.acl-long.8/). Wenhan Liu, et al., ACL 2025 main
+### Reinforcement Learning 
+1. [REARANK: Reasoning Re-ranking Agent via Reinforcement Learning.](https://aclanthology.org/2025.emnlp-main.125/) Le Zhang, et al., EMNLP 2025 main
+1. [GroupRank: A Groupwise Reranking Paradigm Driven by Reinforcement Learning](https://www.arxiv.org/abs/2511.11653). Duolin Sun, et al., Arxiv2025.11
+2. [Listwise Learning to Rank with Deep Q-Networks.](https://arxiv.org/abs/2002.07651) Abhishek Sharma, et al., Arxiv2020
+3. [Rank-R1: Enhancing Reasoning in LLM-based Document Rerankers via Reinforcement Learning.](https://arxiv.org/abs/2503.06034) Shengyao Zhuang, et al., Arxiv2025.03
+
 
 ## Efficient Ranking for LLMs: long document compression during listwise ranking
 Before LLMs:
