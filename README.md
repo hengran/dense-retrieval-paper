@@ -103,8 +103,8 @@ Dense Retrieval](https://aclanthology.org/2024.acl-long.191/) (ACL 2024)**
 19. Gemini: [Generalizable Embeddings from Gemini](https://arxiv.org/abs/2503.07891) Jinhyuk Lee, et al., Mar 2025
 20. BGE-en-icl: [Making Text Embedders Few-Shot Learners](https://arxiv.org/abs/2409.15700) Chaofan Li, et al., ICLR2025
 21. [QZhou-Embedding Technical Report](https://arxiv.org/abs/2508.21632) Peng Yu, et al., Arxiv2025
-22. [Learning Refined Document Representations for Dense Retrieval via Deliberate Thinking] Yifan Ji, et al., SIGIR-AP2025
-23. [O1Embedder: Let Retrievers Think Before Action] Ruiran Yan, et al., Arxiv2025
+22. [Learning Refined Document Representations for Dense Retrieval via Deliberate Thinking](https://arxiv.org/abs/2502.12974) Yifan Ji, et al., SIGIR-AP2025
+23. [O1Embedder: Let Retrievers Think Before Action](https://arxiv.org/abs/2502.07555) Ruiran Yan, et al., Arxiv2025
 
 
 #### Model Merging
