@@ -164,6 +164,9 @@ After LLMs
 1. [Leveraging Passage Embeddings for Efficient Listwise Reranking with Large Language Models](https://dl.acm.org/doi/pdf/10.1145/3696410.3714554) Qi Liu, et al., WWW'25
 3. [Scalable In-context Ranking with Generative Models](https://arxiv.org/abs/2510.05396) Nilesh Gupta, et al., 8 Oct 2025, Arxiv.
 
+## COMPRESSION
+1. IN-CONTEXT AUTOENCODER FOR CONTEXT COMPRESSION IN A LARGE LANGUAGE MODEL. Tao Ge, et al., ICLR2024
+
     
 
     
